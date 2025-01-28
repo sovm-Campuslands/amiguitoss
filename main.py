@@ -1,3 +1,7 @@
 # JULIAN:
 # NICOL: 
-# SANTIAGO: 
+# SANTIAGO:
+def menu():
+    print('Aqui iria el menu')
+
+menu()
